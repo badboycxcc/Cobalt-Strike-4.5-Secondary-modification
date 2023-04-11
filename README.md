@@ -1,4 +1,6 @@
 # Cobalt-Strike-4.5-Secondary-modification
+解压密码：www.wevul.com
+
 >基于CobaltStrike4.5二开完成 (原dogcs4.4二开功能基本都有)(自带破解,不需要使用csagent.)
 >
 > 自定义属于你自己的CobaltStrike,方便一些不会二开的朋友使用～本人只测试了https上线,如有bug请在lssues中提出.
